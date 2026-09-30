@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sukiraharris"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harris.su@northeastern.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+     <a href="https://sukiraharris.github.io/Personal-Website/"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <br>
